@@ -124,7 +124,7 @@ a {
 .balbes {
   height: 14550px;
   background-image: url("https://i.mycdn.me/i?r=AzEPZsRbOZEKgBhR0XGMT1RkyBqSD3uUXQqZY1HnjPUNYaaKTM5SRkZCeTgDn6uOyic");
-  background-size: contain;
+  background-size: cover;
 }
 
 h2 {
