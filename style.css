@@ -1,4 +1,7 @@
-
+* {
+  margin: 0;
+  padding: 0;
+}
 body {
 margin: 0;
 background-color: #000;
@@ -7,17 +10,17 @@ color: #fff;
 }
 
 h1 {
-  padding-top: 30px;
-font-size: 80px;
+  padding-bottom: 10px;
+font-size: 65px;
 text-align: center;
     text-shadow: 1px 3px 12px black;
 
 }
 
-h2, h3 {
+h3, h4 {
 
     text-align: center;
-    margin-top: -18px;
+
 }
 
 .header  {
